@@ -1,2 +1,1 @@
-# TheSparkFoundation
-The Spark Foundation Internship Projects
+# The Sparks Foundation Internship
